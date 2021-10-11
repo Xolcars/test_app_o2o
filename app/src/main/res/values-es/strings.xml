@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">O2O_Test_App</string>
+    <string name="network_error">Ha ocurrido un error</string>
+    <string name="operation_ok">Operación completada con éxito</string>
+    <string name="network_down">No se pudo establecer conexión. Por favor revise su conexión a internet</string>
+    <string name="network_down_timeout">Tiempo de espera excedido. Revisa tu conexión a internet</string>
+    <string name="loading">Cargando…</string>
+
+    <string name="search">Buscar</string>
+    <string name="not_results">No se han encontrado coincidencias</string>
+    <string name="app_fragment_detail">Detalle</string>
+    <string name="category">Categoría:</string>
+    <string name="detail">Detalle</string>
+    <string name="not_content">Contenido no disponible</string>
+    <string name="abv_percent">%s\%% - %s\%% Alcohol</string>
+    <string name="abv_percent_one">%s\%% Alcohol</string>
+    <string name="see_details">Ver detalles</string>
+    <string name="close">Cerrar</string>
+    <string name="food_pairing">Prueba a combinar esta cerveza con %s</string>
+    <string name="image_beer_placeholder_url">https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2020/03/iStock-1040303026.jpg</string>
+    <string name="food_pairing_title">Pruebala con algunas de estas comidas:</string>
+</resources>

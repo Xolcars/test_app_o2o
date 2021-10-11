@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0b3b5b</color>
+    <color name="colorPrimaryDark">#0b3b5b</color>
+    <color name="colorPrimaryLight">#b3c0c8</color>
+    <color name="colorAccent">#ea7d0c</color>
+    <color name="colorControlActivated">#ea7d0c</color>
+
+    <!-- Color palette -->
+    <!-- Whites-->
+    <color name="white_pure">#FFFFFF</color>
+    <color name="white_light">#FBFBFB</color>
+    <color name="white_medium">#F7F7F7</color>
+    <!-- Blacks -->
+    <color name="black_pure">#000000</color>
+    <color name="black_darkest">#0C0C0C</color>
+    <color name="black_dark">#1d1d1f</color>
+    <color name="black_medium">#434343</color>
+    <color name="black_light">#605E5E</color>
+    <!-- Grays-->
+    <color name="gray_lightest">#EBEBEB</color>
+    <color name="gray_light">#C6C6C6</color>
+    <color name="gray_medium">#757575</color>
+    <color name="gray_dark">#707070</color>
+    <color name="gray_theme">#80EBEBEB</color>
+    <color name="gray_edit_user">#80B3B3B3</color>
+    <color name="gray_greened">#35474F</color>
+    <!-- Transparent -->
+    <color name="transparent">#00FFFFFF</color>
+    <color name="holo_black">#80000000</color>
+    <color name="holo_black_darker">#A6000000</color>
+    <color name="holo_black_semitransparent">#4D000000</color>
+    <color name="holo_white">#80FFFFFF</color>
+    <color name="holo_gray">#80808080</color>
+    <color name="holo_blue_light">#800A84FF</color>
+    <color name="holo_blue_dark">#80076BFF</color>
+    <color name="holo_blue_darkest">#80033B6C</color>
+    <color name="holo_blue_tag_container">#804982CF</color>
+    <color name="holo_orange">#80FF9D02</color>
+    <color name="holo_blue_green_light">#8065C28F</color>
+    <color name="holo_violet_tags">#805700E2</color>
+    <color name="holo_orange_tags">#80FF9D00</color>
+    <color name="holo_blue_light_tags">#800A84FF</color>
+    <color name="holo_red_light">#80DE1F26</color>
+    <color name="holo_orange_light">#80FF7043</color>
+</resources>
